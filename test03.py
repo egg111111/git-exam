@@ -1,5 +1,4 @@
-def sayHello(name):
-    return 'Hi, ' + name #user02 수정
+def sayHello(name):return 'Hello, ' + name + '!!' #user01 수정 
 
 inName = Tom
 print(sayHello(inName))
